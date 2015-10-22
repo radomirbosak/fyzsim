@@ -21,7 +21,7 @@ Various simulations based on physical models, done mostly as school projects.
 
 Dependencies
 ------------
-python3
-python3-pyqt4
-python3-matplotlib
-python3-scipy
+- `python3`
+- `python3-pyqt4`
+- `python3-matplotlib`
+- `python3-scipy`
